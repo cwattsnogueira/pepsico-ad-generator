@@ -210,7 +210,7 @@ with gr.Blocks(
 
     gr.HTML("""
         <div class="pepsico-header">
-            PepsiCo Ad Generator
+            PepsiCo Ad Generator (Use‑Case Prototype)
         </div>
     """)
 
